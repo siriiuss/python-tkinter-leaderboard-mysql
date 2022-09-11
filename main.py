@@ -94,7 +94,7 @@ def deleteplayer(listBox):
     if messageboxdelete == "Yes":
         selected_item = listBox.selection()[0]
         print(listBox.item(selected_item)['values'])
-        uid = listBox.item(selected_item)['values'][0]
+        uid = listBox.item(selected_item)['values'][1]
         del_query = "DELETE FROM leaderboard where player=%s"
         sel_data = (uid,)
         maincursor.execute(del_query, sel_data)
