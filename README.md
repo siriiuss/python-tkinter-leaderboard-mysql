@@ -22,8 +22,7 @@ python main.py
   
 
 ![Main Screen](https://raw.githubusercontent.com/siriiuss/python-tkinter-leaderboard-mysql/main/screenshots/screenshot1.png)
-![](https://raw.githubusercontent.com/siriiuss/python-tkinter-leaderboard-mysql/main/screenshots/screenshot2.png)  
-![](https://raw.githubusercontent.com/siriiuss/python-tkinter-leaderboard-mysql/main/screenshots/screenshot3.png)  
+![](https://raw.githubusercontent.com/siriiuss/python-tkinter-leaderboard-mysql/main/screenshots/screenshot2.png)   
 ![](https://raw.githubusercontent.com/siriiuss/python-tkinter-leaderboard-mysql/main/screenshots/screenshot4.png)  
   
 
